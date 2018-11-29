@@ -3,26 +3,30 @@
         {
             "id": 1,
             "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
         }
     ],
     "comments": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "body": "Winter is coming...",
+            "postId": 1,
+            "postAt": "2018-04-19T10:59-0500",
+            "user": {
+              "id": "001",
+              "name": "Jon Snow",
+              "avatar": "https://loremflickr.com/320/320/men"
+            }
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "body": "You know nothing Jon snow",
+            "postId": 1,
+            "postAt": "2018-04-19T11:59-0500",
+            "user": {
+              "id": "002",
+              "name": "Lauren Levinson",
+              "avatar": "https://loremflickr.com/320/320/women"
+            }
         }
     ],
     "profile": {
