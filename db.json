@@ -1,8 +1,15 @@
 {
     "posts": [
         {
-            "id": 1,
-            "title": "Post 1"
+            "postId": 1,
+            "postAt": "2018-04-19T10:59-0500",
+            "title": "Titile of this article",
+            "content": "Test test",
+            "user": {
+                "id": "002",
+                "name": "Lauren Levinson",
+                "avatar": "https://loremflickr.com/320/320/women"
+              }
         }
     ],
     "comments": [
