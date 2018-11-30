@@ -1,7 +1,7 @@
 {
     "posts": [
         {
-            "postId": 1,
+            "id": 1,
             "postAt": "2018-04-19T10:59-0500",
             "title": "Titile of this article",
             "content": "Test test",
