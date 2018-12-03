@@ -9,7 +9,7 @@
                 "id": "002",
                 "name": "Lauren Levinson",
                 "avatar": "https://loremflickr.com/320/320/women"
-            }
+              }
         }
     ],
     "comments": [
@@ -19,9 +19,9 @@
             "postId": 1,
             "postAt": "2018-10-19T10:59-0500",
             "user": {
-                "id": "001",
-                "name": "Jon Snow",
-                "avatar": "https://loremflickr.com/320/320/men"
+              "id": "001",
+              "name": "Jon Snow",
+              "avatar": "https://loremflickr.com/320/320/men"
             }
         },
         {
@@ -30,146 +30,111 @@
             "postId": 1,
             "postAt": "2018-11-19T11:59-0500",
             "user": {
-                "id": "002",
-                "name": "Lauren Levinson",
-                "avatar": "https://loremflickr.com/320/320/women"
+              "id": "002",
+              "name": "Lauren Levinson",
+              "avatar": "https://loremflickr.com/320/320/women"
             }
         }
     ],
     "profile": {
         "name": "typicode"
     },
-    "lottos": {
-        "seller": {
-            "id": "00001",
-            "name": "Jon Snow",
-            "currentLocation": {
-                "lat": "",
-                "lng": "",
-                "name": "",
-                "distance": 200
+    "lottos": [
+        {
+            "seller": {
+                "id": "00001",
+                "name": "Jon Snow",
+                "currentLocation": {
+                    "lat": "",
+                    "lng": "",
+                    "name": "",
+                    "distance": 200
+                },
+                "specialConditions": ""
             },
-            "specialConditions": ""
-        },
-        "headerline": {
-            "number": "123456",
-            "price": "30 M"
-        },
-        "feature1": [
-            {
-                "data": 111111,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            },
-            {
-                "data": 111112,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            },
-            {
-                "data": 111113,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            }
-        ],
-        "feature2": [
-            {
-                "data": 111115,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111116,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111117,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            }
-        ],
-        "feature3": [
-            {
-                "data": 111118,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111119,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111120,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            }
-        ],
-        "data": [
-            {
-                "data": 111111,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            },
-            {
-                "data": 111112,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            },
-            {
-                "data": 111113,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "three"
-            },
-            {
-                "data": 111115,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111116,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111117,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111118,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111119,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            },
-            {
-                "data": 111120,
-                "amount": 1,
-                "isFeature": true,
-                "featureType": "two"
-            }
-        ]
-    }
+            "items": [
+                {
+                    "data": "123456",
+                    "amount": 10,
+                    "isFeature": true,
+                    "isHeaderline": true,
+                    "price": "30 M",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "111111",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "111112",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "111113",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "111115",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "111116",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "111117",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "111118",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "111119",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "111120",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                }
+            ]         
+        }
+       
+    ]
 }
