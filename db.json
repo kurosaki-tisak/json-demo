@@ -38,5 +38,140 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "lottos": [
+        {
+            "seller": {
+                "id": "00001",
+                "name": "Jon Snow",
+                "currentLocation": {
+                    "lat": "",
+                    "lng": "",
+                    "name": "",
+                    "distance": 200
+                },
+                "specialConditions": ""
+            },
+            "headerline": {
+                "number": "123456",
+                "price": "30 M"
+            },
+            "feature1": [
+                {
+                    "data": 111111,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                },
+                {
+                    "data": 111112,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                },
+                {
+                    "data": 111113,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                }
+            ],
+            "feature2": [
+                {
+                    "data": 111115,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111116,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111117,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                }
+            ],
+            "feature3": [
+                {
+                    "data": 111118,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111119,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111120,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                }
+            ],
+            "data": [
+                {
+                    "data": 111111,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                },
+                {
+                    "data": 111112,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                },
+                {
+                    "data": 111113,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "three" 
+                },
+                {
+                    "data": 111115,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111116,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111117,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111118,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111119,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                },
+                {
+                    "data": 111120,
+                    "amount": 1,
+                    "isFeature": true,
+                    "featureType": "two" 
+                }
+            ]         
+        }
+    ]
 }
