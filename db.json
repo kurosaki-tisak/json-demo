@@ -48,7 +48,8 @@
                     "lat": "",
                     "lng": "",
                     "name": "Asok, Bangkok",
-                    "distance": "2 Minute - 200M"
+                    "distance": "2 Minute - 200M",
+                    "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
                 },
                 "specialConditions": ""
             },
@@ -127,6 +128,198 @@
                 },
                 {
                     "data": "111120",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                }
+            ]         
+        },
+        {
+            "seller": {
+                "id": "00002",
+                "name": "Sansa Stark",
+                "currentLocation": {
+                    "lat": "",
+                    "lng": "",
+                    "name": "Asok, Bangkok",
+                    "distance": "5 Minute - 500M",
+                    "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
+                },
+                "specialConditions": ""
+            },
+            "items": [
+                {
+                    "data": "888777",
+                    "amount": 20,
+                    "isFeature": true,
+                    "isHeaderline": true,
+                    "price": "50 M",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "222222",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "222223",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "222224",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "222225",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "222226",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "222227",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "222228",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "222229",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "222230",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                }
+            ]         
+        },
+        {
+            "seller": {
+                "id": "00003",
+                "name": "Little Fingers",
+                "currentLocation": {
+                    "lat": "",
+                    "lng": "",
+                    "name": "Asok, Bangkok",
+                    "distance": "10 Minute - 1KM",
+                    "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
+                },
+                "specialConditions": ""
+            },
+            "items": [
+                {
+                    "data": "332112",
+                    "amount": 10,
+                    "isFeature": true,
+                    "isHeaderline": true,
+                    "price": "30 M",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "333321",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "333323",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "666554",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "445634",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "654234",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "456754",
                     "amount": 1,
                     "isFeature": true,
                     "isHeaderline": false,
