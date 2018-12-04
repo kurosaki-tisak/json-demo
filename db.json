@@ -1,17 +1,4 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "postAt": "2018-04-19T10:59-0500",
-            "title": "Titile of this article",
-            "content": "Test test",
-            "user": {
-                "id": "002",
-                "name": "Lauren Levinson",
-                "avatar": "https://loremflickr.com/320/320/women"
-              }
-        }
-    ],
     "comments": [
         {
             "id": 1,
@@ -36,9 +23,6 @@
             }
         }
     ],
-    "profile": {
-        "name": "typicode"
-    },
     "lottos": [
         {
             "seller": {
@@ -224,6 +208,102 @@
                 },
                 {
                     "data": "222230",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                }
+            ]         
+        },
+        {
+            "seller": {
+                "id": "00003",
+                "name": "Little Fingers",
+                "currentLocation": {
+                    "lat": "",
+                    "lng": "",
+                    "name": "Asok, Bangkok",
+                    "distance": "10 Minute - 1KM",
+                    "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
+                },
+                "specialConditions": ""
+            },
+            "items": [
+                {
+                    "data": "332112",
+                    "amount": 10,
+                    "isFeature": true,
+                    "isHeaderline": true,
+                    "price": "30 M",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "333321",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "333323",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "three" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "444332",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "666554",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "445634",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "654234",
+                    "amount": 1,
+                    "isFeature": true,
+                    "isHeaderline": false,
+                    "price": "none",
+                    "featureType": "two" 
+                },
+                {
+                    "data": "456754",
                     "amount": 1,
                     "isFeature": true,
                     "isHeaderline": false,
