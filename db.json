@@ -41,10 +41,10 @@
                 {
                     "data": "123456",
                     "amount": 10,
-                    "isFeature": true,
+                    "isFeature": false,
                     "isHeaderline": true,
                     "price": "30 M",
-                    "featureType": "three" 
+                    "featureType": "none" 
                 },
                 {
                     "data": "111111",
@@ -137,10 +137,10 @@
                 {
                     "data": "888777",
                     "amount": 20,
-                    "isFeature": true,
+                    "isFeature": false,
                     "isHeaderline": true,
                     "price": "50 M",
-                    "featureType": "three" 
+                    "featureType": "none" 
                 },
                 {
                     "data": "222222",
