@@ -29,8 +29,8 @@
                 "id": "00001",
                 "name": "Jon Snow",
                 "currentLocation": {
-                    "lat": "",
-                    "lng": "",
+                    "lat": "13.8141765",
+                    "lng": "100.5613539",
                     "name": "Asok, Bangkok",
                     "distance": "2 Minute - 200M",
                     "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
@@ -125,8 +125,8 @@
                 "id": "00002",
                 "name": "Sansa Stark",
                 "currentLocation": {
-                    "lat": "",
-                    "lng": "",
+                    "lat": "13.8141765",
+                    "lng": "100.5613539",
                     "name": "Asok, Bangkok",
                     "distance": "5 Minute - 500M",
                     "mapImageUrl": "https://blog.xamarin.com/wp-content/uploads/2015/03/MapWithPins-300x291.png"
